@@ -5,6 +5,7 @@ var assets = [
 	{ type: 'img', name: 'name4', url: './data/images/enemy.png' },
 	{ type: 'img', name: 'name5', url: './data/images/attack_signal.png' },
 	{ type: 'img', name: 'name6', url: './data/images/grass_field.jpg' },
+	{ type: 'img', name: 'name7', url: './data/images/enemy_def.png' },
 	{ type: 'audio', name: 'name1', url: './data/sounds/back.wav', volume: 0.1 },
 	{ type: 'audio', name: 'name2', url: './data/sounds/defeat.mp3', volume: 0.3 },
 	{ type: 'audio', name: 'name3', url: './data/sounds/defense.wav', volume: 0.1 },
